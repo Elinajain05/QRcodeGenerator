@@ -12,9 +12,13 @@ This is a QR Code Generator built with **Node.js**. Just run it in your terminal
 4. Scan the QR code using your phone or scanner — it will open the website you entered!
 
 🛠 Requirements
+
 Node.js installed on your system
+
 📁 Files
+
 index.js — Main file that handles QR code generation
+
 qr_img.png (or similar) — Output image with your QR code
 
 💡 Example
