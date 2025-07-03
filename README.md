@@ -18,8 +18,10 @@ index.js — Main file that handles QR code generation
 qr_img.png (or similar) — Output image with your QR code
 
 💡 Example
+
 ? Enter the URL: https://www.example.com
 ✔ QR code generated successfully!
+
 📁 Saved as: qr_img_example.png
 Scan the image and it will open https://www.example.com.
 
